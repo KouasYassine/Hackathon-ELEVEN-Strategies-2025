@@ -1,5 +1,5 @@
 # Europark – Predicting Attraction Wait Times with Machine Learning
- — Role: Modeling & Analysis
+ Role: Modeling & Analysis
 ## Project Overview
 This project, developed during the ENPC Hackathon 2025, focuses on predicting theme park attraction wait times at **Europark**, a small amusement park with three attractions, one shop, and one food point.
 
@@ -8,7 +8,7 @@ Following the COVID-19 pandemic, Europark faced two main challenges:
 2. A decline in visitor satisfaction linked to the disappearance of live events and reduced capacity.
 
 The goal was to build a predictive model capable of estimating wait times up to **two hours in advance**, using both historical and meteorological data.  
-Additionally, the project analyzed how post-COVID changes — particularly the reduction of parades and night shows — affected visitor dynamics and congestion patterns.
+Additionally, the project analyzed how post-COVID changes  particularly the reduction of parades and night shows  affected visitor dynamics and congestion patterns.
 
 ---
 
